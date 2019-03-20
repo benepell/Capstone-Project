@@ -1,0 +1,295 @@
+<!DOCTYPE resources [<!ENTITY app_name "RcapStone">]>
+<!--suppress CheckTagEmptyBody, CheckTagEmptyBody, CheckTagEmptyBody, CheckTagEmptyBody, CheckTagEmptyBody, CheckTagEmptyBody -->
+<resources>
+    <string name="app_name">&app_name;</string>
+    <string name="title_app_version">Version</string>
+    <string name="url_app" translatable="false">http://android.pelleritoudacity.info/rcapstone</string>
+    <string name="image_description_app">&app_name; Android Nano degree </string>
+    <string name="app_support_mail" translatable="false">support@pelleritoudacity.info</string>
+
+    <string name="title_activity_subreddit">&app_name; </string>
+    <string name="title_activity_subreddit_detail">&app_name; - Comments </string>
+    <string name="title_activity_settings">&app_name; - Settings</string>
+    <string name="title_activity_manage">&app_name; - Categories </string>
+    <string name="title_activity_login">&app_name; - Login</string>
+    <string name="title_activity_youtube">&app_name; - Youtube Player</string>
+    <string name="title_activity_webview">&app_name;</string>
+
+
+    <string name="error_state_critical">Uh oh, an error occurred, restart app. </string>
+    <string name="text_no_network">Uh oh! Looks like you\'ve lost internet connection. Please connect to the internet and go back!</string>
+    <string name="error_video">Error loading player: no playable video</string>
+    <string name="error_player">There was an error initializing the YouTubePlayer (%1$s)</string>
+
+    <string name="text_log_in">Log into Reddit</string>
+    <string name="text_logout_error">Authentication failed: Permission was denied</string>
+
+    <string name="text_time_now">now</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="list_snackbar_offline_text">No Internet connection &#8230; swipe here to try again.</string>
+    <string name="text_search_local">Local Search</string>
+    <string name="text_subscribe_search">Subscribe Search</string>
+    <string name="widget_home">widget home</string>
+    <string name="widget_refresh">widget refresh</string>
+    <string name="text_not_category_widget">No subreddits are added</string>
+    <string name="title_image_widget">image widget</string>
+    <string name="text_widget_category">Category</string>
+    <string name="text_no_search">No item found</string>
+    <string name="text_no_favorite">No Favorite found</string>
+
+    <string name="background_image_protection_oval">background image protection oval</string>
+    <string name="background_image_protection">background image protection</string>
+    <string name="image_vote_up">image vote up</string>
+    <string name="image_vote_down">image vote down</string>
+    <string name="favorite_stars">Favorite stars</string>
+    <string name="image_show_comments">image show comments</string>
+    <string name="image_open_browser">image open browser</string>
+    <string name="text_more_replies">more replies…</string>
+    <string name="text_start_login">Please Login</string>
+
+    <string name="text_private_category">Private category, access not allowed</string>
+
+    <string name="subject_support_mail">Problem with</string>
+    <string name="text_mail_intent">Select email application.</string>
+
+    <string name="title_night_mode">Night Mode</string>
+    <string name="summary_night_mode">Switch the &app_name; app to the Dark theme, displaying white text on black for a comfortable viewing experience at night</string>
+
+    <string name="title_adult_filter">Adult Filter</string>
+    <string name="summary_adult_filter">Prevent access to certain items, search for gifs and count the number of results marked age +18.</string>
+
+    <string name="title_tab_history">Tab history</string>
+    <string name="summary_tab_history">Enabled History tab when press back.</string>
+
+    <string name="title_clear_data">Factory data reset</string>
+    <string name="summary_clear_data">Delete all data stored on device.</string>
+    <string name="text_clear_data">This action will delete all your data. Are you sure you want to continue?</string>
+    <string name="text_dialog_confirm_reset">Factory Data Reset: Delete All Data.</string>
+    <string name="title_dialog_confirm">Factory Data Reset</string>
+    <string name="text_dialog_confirm_no_reset">Cancel</string>
+    <string name="text_positive_dialog_confirm">Delete</string>
+
+    <string name="text_restore_data">This action will restore all your SubScription. Are you sure you want to continue?</string>
+    <string name="title_restore_confirm">Restore SubScription Reset</string>
+    <string name="text_restore_confirm_no_reset">Cancel</string>
+    <string name="text_positive_restore_confirm">Restore</string>
+
+    <string name="title_menu_home">Home</string>
+    <string name="title_menu_mode_popular">Popular</string>
+    <string name="title_menu_mode_all">All</string>
+    <string name="title_menu_mode_search">Search</string>
+
+    <string name="title_menu_subscriptions">Subscription:</string>
+    <string name="title_menu_subscribe">Search Subscribe</string>
+    <string name="title_menu_link">Search Link</string>
+    <string name="title_menu_mode_refresh">Refresh</string>
+    <string name="title_menu_mode_settings">Settings</string>
+
+    <string name="title_menu_login">Login</string>
+    <string name="title_menu_filter">Filter posts</string>
+    <string name="title_submenu_general">General posts</string>
+    <string name="title_submenu_filter">Filter posts</string>
+    <string name="title_submenu_hot">Hot</string>
+    <string name="title_submenu_top">Top</string>
+    <string name="title_submenu_new">New</string>
+    <string name="title_submenu_rising">Rising</string>
+    <string name="title_submenu_controver">Controversial</string>
+
+    <string name="title_filter_hour">Hour</string>
+    <string name="title_filter_day">Day</string>
+    <string name="title_filter_week">Week</string>
+    <string name="title_filter_month">Month</string>
+    <string name="title_filter_year">Year</string>
+    <string name="title_filter_all">All time</string>
+
+    <string name="title_menu_create">Create Post by Reddit</string>
+    <string name="text_handle_description">handle image</string>
+    <string name="title_menu_managesubs">Manage Subscriptions</string>
+    <string name="title_menu_favorite">Favorite</string>
+
+    <string name="text_login_success">You have successfully logged in</string>
+    <string name="text_nav_anonymous">Anonymous</string>
+    <string name="title_menu_logout">Logout</string>
+    <string name="text_logout_success">Logout successfly.</string>
+    <string name="reddit_adultcontent_text">Item not available - Enable NSFW content on Reddit</string>
+    <string name="reddit_nologinadultcontent_text">Click on the log in to retrieve your personal login information</string>
+
+    <string name="text_no_comments">comments not present</string>
+
+    <string name="text_comments_subreddit">comments</string>
+    <string name="text_icon_description">icon link description</string>
+    <string name="manage_stars_description">enable subreddit link</string>
+    <string name="title_menu_restore">restore</string>
+
+    <string name="image_description_not_available">Description Not Available</string>
+
+    <string name="shortcut_text_popular">Popular Reddit</string>
+    <string name="shortcut_long_text_popular">Shortcut long text popular</string>
+    <string name="shortcut_disabled_message_popular">shortcut disabled text popular</string>
+
+    <string name="shortcut_text_all">All Reddit</string>
+    <string name="shortcut_long_text_all">Shortcut long text All</string>
+    <string name="shortcut_disabled_message_all">shortcut disabled text All</string>
+
+    <string name="shortcut_text_favorite">Favorite Reddit</string>
+    <string name="shortcut_long_text_favorite">Shortcut long text favorite</string>
+    <string name="shortcut_disabled_message_favorite">Shortcut disabled text favorite</string>
+    <string name="title_general_images">Images</string>
+    <string name="title_general_gifs">Gifs</string>
+    <string name="title_general_videos">Videos</string>
+    <string name="title_general_links">Links</string>
+    <string name="title_general_albums">Albums</string>
+    <string name="title_general_self">Self</string>
+
+
+    <string name="default_items_page_titles" translatable="false">25</string>
+    <string name="default_depth_page_titles" translatable="false">6</string>
+
+    <string name="app_url_privacy" translatable="false">https://www.apache.org/licenses/LICENSE-2.0</string>
+
+    <string name="pref_insert_prefs" translatable="false">info.pelleritoudacity.android.rcapstone.pref.insert.prefs</string>
+    <string name="pref_subreddit_key" translatable="false">info.pelleritoudacity.android.rcapstone.pref.subreddit.key</string>
+    <string name="pref_subreddit_sort" translatable="false">info.pelleritoudacity.android.rcapstone.pref.subreddit.sort</string>
+    <string name="pref_time_sort" translatable="false">info.pelleritoudacity.android.rcapstone.pref.time.sort</string>
+
+    <string name="pref_type_mode" translatable="false">pref.type.mode</string>
+    <string name="pref_last_category" translatable="false">info.pelleritoudacity.android.rcapstone.pref.last.category</string>
+    <string name="pref_last_target" translatable="false">info.pelleritoudacity.android.rcapstone.pref.last.target</string>
+
+    <string name="pref_volume_muted" translatable="false">info.pelleritoudacity.android.rcapstone.pref_volume_muted</string>
+    <string name="pref_last_comment" translatable="false">info.pelleritoudacity.android.rcapstone.pref.last.comment</string>
+
+    <string name="pref_login_start" translatable="false">info.pelleritoudacity.android.rcapstone.pref.login.start</string>
+    <string name="pref_login_name" translatable="false">info.pelleritoudacity.android.rcapstone.pref.login.name</string>
+    <string name="pref_login_over18" translatable="false">info.pelleritoudacity.android.rcapstone.pref.login.over18</string>
+
+    <string name="pref_general_images" translatable="false">info.pelleritoudacity.android.rcapstone.pref.general.images</string>
+    <string name="pref_general_gifs" translatable="false">info.pelleritoudacity.android.rcapstone.pref.general.gifs</string>
+    <string name="pref_general_albums" translatable="false">info.pelleritoudacity.android.rcapstone.pref.general.albums</string>
+    <string name="pref_general_videos" translatable="false">info.pelleritoudacity.android.rcapstone.pref.general.videos</string>
+    <string name="pref_general_self" translatable="false">info.pelleritoudacity.android.rcapstone.pref.general.self</string>
+    <string name="pref_general_links" translatable="false">info.pelleritoudacity.android.rcapstone.pref.general.links</string>
+    <string name="pref_general_init" translatable="false">info.pelleritoudacity.android.rcapstone.pref.general.init</string>
+    <string name="pref_more_fragment_more_nested_position_height" translatable="false">info.pelleritoudacity.android.rcapstone.pref.more.nested.position.height</string>
+
+    <string name="pref_request_permission" translatable="false">info.pelleritoudacity.android.rcapstone.request.permission.external.storage</string>
+    <string name="pref_write_external_storage" translatable="false">info.pelleritoudacity.android.rcapstone.write.external.storage</string>
+
+    <string name="pref_session_username" translatable="false">info.pelleritoudacity.android.rcapstone.session.username</string>
+    <string name="pref_session_access_token" translatable="false">info.pelleritoudacity.android.rcapstone.session.access.token</string>
+    <string name="pref_session_refresh_token" translatable="false">info.pelleritoudacity.android.rcapstone.session.refresh.token</string>
+    <string name="pref_session_expired" translatable="false">info.pelleritoudacity.android.rcapstone.session.expired</string>
+    <string name="pref_time_token" translatable="false">info.pelleritoudacity.android.rcapstone.time.logged</string>
+
+    <string name="pref_night_mode" translatable="false">info.pelleritoudacity.android.rcapstone.pref_night_mode</string>
+
+    <string name="pref_app_version" translatable="false">pref_app_version</string>
+    <string name="pref_privacy" translatable="false">pref_privacy_version</string>
+    <string name="pref_adult_filter" translatable="false">info.pelleritoudacity.android.rcapstone.pref_adult_filter</string>
+    <string name="pref_tab_history" translatable="false">info.pelleritoudacity.android.rcapstone.pref.tab.history</string>
+
+    <string name="pref_sync_frequency" translatable="false">info.pelleritoudacity.android.rcapstone.pref_sync_frequency</string>
+    <string name="pref_title_sync_frequency" translatable="false">Sync Data</string>
+    <string-array name="pref_sync_frequency_titles">
+        <item>5 minutes</item>
+        <item>15 minutes</item>
+        <item>6 hours</item>
+        <item>12 hours</item>
+        <item>24 hours</item>
+        <item>48 hours</item>
+    </string-array>
+    <string-array name="pref_sync_frequency_values" translatable="false">
+        <item>300</item>
+        <item>900</item>
+        <item>21600</item>
+        <item>43200</item>
+        <item>86400</item>
+        <item>172800</item>
+    </string-array>
+
+    <string name="pref_item_page" translatable="false">info.pelleritoudacity.android.rcapstone.pref.item.page</string>
+    <string name="pref_title_item_page" translatable="false">Items Page Result</string>
+    <string-array name="pref_items_page_titles">
+        <item>5 items</item>
+        <item>10 items</item>
+        <item>15 items</item>
+        <item>20 items</item>
+        <item>25 items</item>
+        <item>30 items</item>
+    </string-array>
+    <string-array name="pref_items_page_values" translatable="false">
+        <item>5</item>
+        <item>10</item>
+        <item>15</item>
+        <item>20</item>
+        <item>25</item>
+        <item>30</item>
+    </string-array>
+
+    <string name="pref_widget_category" translatable="false">info.pelleritoudacity.android.rcapstone.pref.widget.category</string>
+    <string name="pref_widget_width" translatable="false">info.pelleritoudacity.android.rcapstone.pref.widget.width</string>
+
+    <string name="pref_factory_data_reset" translatable="false">info.pelleritoudacity.android.rcapstone.pref.factory.data.reset</string>
+
+    <string name="pref_depth_page" translatable="false">info.pelleritoudacity.android.rcapstone.pref.depth.page</string>
+    <string name="pref_title_depth_page" translatable="false">Comments Level Depth</string>
+    <string name="hint_edit_comment_selector">Your Comment…</string>
+    <string name="text_cancel_selector">Cancel</string>
+    <string name="text_delete_selector">delete post</string>
+    <string name="text_button_selector">Reply</string>
+    <string name="editext_no_comment">no comment</string>
+    <string name="text_comment_saved">Comment saved</string>
+    <string name="text_comment_deleted">Comment deleted</string>
+    <string name="text_error_comment">Please try again in a minute</string>
+    <string name="text_pvt">private</string>
+    <string name="text_unsubscribe">unsubscribe</string>
+    <string name="text_subscribe">subscribe</string>
+    <string name="text_subscribers">%s subscribers</string>
+    <string name="text_no_subscribers">no subscribers</string>
+    <string name="text_no_title">title not available</string>
+    <string name="text_digit_subscript">The search must be at least 3 characters long</string>
+    <string name="search_subscribe_hint">search items (min 3 digit)</string>
+    <string name="text_cancel_dialog">Cancel</string>
+    <string name="text_dialog_search">Search</string>
+    <string name="title_menu_search">Search</string>
+    <string-array name="pref_depth_page_titles">
+        <item>none</item>
+        <item>1 level</item>
+        <item>2 levels</item>
+        <item>3 levels</item>
+        <item>4 levels</item>
+        <item>5 levels</item>
+        <item>6 levels</item>
+        <item>7 levels</item>
+        <item>8 levels</item>
+        <item>9 levels</item>
+    </string-array>
+    <string-array name="pref_depth_page_values" translatable="false">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+    </string-array>
+
+    <string name="banner_ad_unit_id" translatable="false"></string>
+    <string name="ad_size_constant" translatable="false"></string>
+    <string name="ads_app_id"></string>
+    <string name="ad_unit_id"></string>
+    <string name="error_load_banner_internal_error"></string>
+    <string name="error_load_banner_invalid_request"></string>
+    <string name="error_load_banner_network_error"></string>
+    <string name="error_load_banner_no_fill"></string>
+    <string name="no_api_key_youtube">ERROR API KEY EMPTY</string>
+    <string name="ad_tag_url" />
+
+
+</resources>
