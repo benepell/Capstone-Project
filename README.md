@@ -45,11 +45,11 @@ Connect to Reddit API
 ![screeen](https://user-images.githubusercontent.com/18085976/48212482-f83c8b00-e37b-11e8-91df-476fa7e77090.png)
 
 ## APK - Build Variant
-* [app-paid-release.zip](https://github.com/benepell/Capstone-Project/files/2989128/app-paid-release.zip)
 * [app-free-debug.zip](https://github.com/benepell/Capstone-Project/files/2989180/app-free-debug.zip)
-
 * [app-free-release.zip](https://github.com/benepell/Capstone-Project/files/2989162/app-free-release.zip)
-*[app-free-debug.zip](https://github.com/benepell/Capstone-Project/files/2989180/app-free-debug.zip)
+* [app-paid-debug.zip](https://github.com/benepell/Capstone-Project/files/2989203/app-paid-debug.zip)
+* [app-paid-release.zip](https://github.com/benepell/Capstone-Project/files/2989128/app-paid-release.zip)
+
 
 ## Libraries
 * [YouTube Android Player API](https://developers.google.com/youtube/android/player/setup)
