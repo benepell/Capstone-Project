@@ -9,10 +9,10 @@
 It was evaluated by certified Udacity code reviewer and was graded as [Graduated](https://confirm.udacity.com/LD4VZMP4).
 
 ## Project Design
-[Capstone Stage 1](https://github.com/benepell/Capstone-Project/files/2562037/Capstone_Stage1.pdf)
+[Capstone Stage 1](https://github.com/benepell/Capstone-Project-Devel/files/2562037/Capstone_Stage1.pdf)
 
 ## Project Archived in Udacity
-[Archive](https://github.com/benepell/Capstone-Project/files/2617998/archive.zip)
+[Archive](https://github.com/benepell/Capstone-Project-Devel/files/2617998/archive.zip)
 
 ## Description
 A beautifully client for browse reddit discussion with an easy to use interface.
